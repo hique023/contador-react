@@ -1,0 +1,26 @@
+.Placar {
+  /* border: 1px solid black; */
+  border-radius: 20px;
+  padding: 35px;
+  text-align: center;
+  width: 400px;
+  margin: 40px auto;
+  background: linear-gradient(
+    to right,
+    rgb(3, 0, 30),
+    rgb(115, 3, 192),
+    rgb(236, 56, 188),
+    rgb(253, 239, 249)
+  );
+}
+
+h1,
+h4 {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 25px;
+  margin: 5px 5px 0;
+}
