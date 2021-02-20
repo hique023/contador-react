@@ -2,7 +2,7 @@
 
 Este contador desenvolvido em React pode ser utilizado como um sistema de pontuação, onde é possível incrementar um número por vez. Conta também com um sistema para zerar a contagem.
 
-Para o desenvolvimento do projeto foi utilizado conceitos importantes do React, como: Componentes, Estado, JSX e Imutabilidade.
+Para o desenvolvimento do projeto foram utilizados conceitos importantes do React, como: Componentes, Estado, JSX e Imutabilidade.
 
 # Execução
 
